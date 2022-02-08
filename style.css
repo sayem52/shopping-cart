@@ -53,3 +53,19 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+
+
+	
+	
+
+#nxt-page{
+	display: none;
+	text-align: center;
+	background-color: #2FBE70;
+	color: blue;
+	height: 50px;
+	width: 500px;
+	
+	margin-left: 400px;
+	margin-top: 300px;
+}
